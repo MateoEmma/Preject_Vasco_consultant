@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vasco-data-engineer-mateo",
+  "private_key_id": "9d05b06c73ff4321d57d359b6c1f5e19e358b868",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2RVGh6yEEDzYM\n7cujqp08hsEpBm0Q831F4/0tPNsbAmyygkQeqUzbzXMPpiWUH8XpdD55jhXCGYGR\n6Ay6OXjo6EYLF+uRhs4/EO5AMIzykeCWAycYTHdmjPfd7QwjAdJHHL593ZSsbWup\nAyDBqCSD1yQDpjv+ab/EVUO8psbkDGXQpB7wvbeHBJOPOKF2kkZ2tm6WBTWrYQXI\nNjy9HwXZymeioLgETfJeNpjWbv5lYTpZfIoBiqnopFMAOLhKfWEZPEGMob76aSxl\nnHDz7eX8odE1zsKV9I9tNE0sW2pIatPPWHNFDIv1uTvKU/W/+N7uAat1Q1yo/39G\nuL8v8mbXAgMBAAECggEACrausoSbwggo26qwkRQKvk+HaWNqJBhue8iyYtHUaSqD\n0XGhvRGjew9WR4xdt26vVzu7c7FRKxcNDCf7yN3ESHW6ruqUMKTKrl9O5HFWH5NJ\nLwLMGKa0pU+nlCEGWRpsIzztH4CCPX5drnyzaglO7XxHBCXlxIcFEW5s7Fj7O3/m\nNZLEm817QZM3TMkcEPsPvQzTsYVAX86Omko1uDTLwre0gQSdseRzAp5Gf4Th3ehF\nE7QiWS1KoEYQ4tQCkH3vZy8qDvmvzppjJYAatimkh/DXvbTA2ifaunVZ+bmkE524\nFtTN4ySzjgQdVIUxENhGJz1F6vTmdRT5dcHLbmepAQKBgQDt66lQr6JYRKYGeoMf\nbbZvv3RH4WWohjhruJXe9ef6P1rVmRaVyQWH3zIhpSMdIM3it89pGyYS6up2/Bow\n3pGL34dhBqt+H/AmNfM779ujBxvNo41EzCtfamOpTuFzWr/0sSxOapoPieob7+p8\nVYavTvAn5Z0xZ2+z52tjewF31wKBgQDEHxYEuLMkkyMz+WbM74qjD5uB5Lrk2i2z\n6Vw0MX0Gm2mso1r4DbTg+6A1dX/YWsYdpn3MF6ZWzR9tTqgcgS/sln84Qhrilpuv\nxHkF/dWKgS2mAkpFUVIKGWHzZZ13HcA+5mDoGtZYZgb4BqMY2ke4f3Zcl2zsOUJb\n9E1P/0ypAQKBgCUsrUfuKW+hSk+41MQUYG0VfRW+IiQy1J4AOWqdAaIYRBkb0muU\n/Ug9l5eqNdJXTdQe5EmH9GsASaJNwcng/NzeEEkYwbLzSpKt21OCJs9STQXUiD43\nqI9AEFJkANYFV/jjtgiKn4fOBMZYtkq3ElRSATQ6rFUL1GhHwH/KuHABAoGAVtop\nZxfghb7/ZQH666DddY7w4BpKRhT1Dmq24YpVAvsKVmDVZWq0groMXgBWCJtSh0j3\nBs4mZORcGY0u18jCT3TqjCCCRXxLIBDTQ7sAuWCxtYXoHECCI2TQQvjqPhkXzQM7\nQS65Y9ZzGZ3e1p+8CVGxOhn5K7fD0nMjVd0KtwECgYB9sdg4TI1Cp7st7OIM2sPw\nT6hpBBUCPm/srSKJruRq78hyWkLJkL0YLO2oWpxmVF4kOXAlgbe+wg+VV2XpkDs8\nQ8Z+r6fh87Us5gJJbb+d2zPlseogpFRXsAJBeDM4pb4xBq6hr69iNgLT9w1GdE7h\n3tX/Db01bmM+3fjlcaw7Nw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vasco-project@vasco-data-engineer-mateo.iam.gserviceaccount.com",
+  "client_id": "106388470213159731955",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vasco-project%40vasco-data-engineer-mateo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
